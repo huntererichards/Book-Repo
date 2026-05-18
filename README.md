@@ -22,3 +22,7 @@ The program does the following:
 *Remove books by ID
 
 *Demonstrates constructors/destructors and dynamic memory cleanup
+
+Author 
+Hunter Richards
+huntererichards@gmail.com
